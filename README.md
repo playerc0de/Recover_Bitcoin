@@ -55,7 +55,8 @@ If you want Recover a Lost Password, send your wallet to me. If I get password b
 Email:1school.player@protonmail.com
 
 2022-04-03 
-### Recover a Lost Password Successful record　
+## Recover a Lost Password Successful record　
+
 $bitcoin$64$dae651f5324d5c181f85d5***********************:cvvvsda2a13$	
 $bitcoin$64$358e6711cbdcbe8fd1eb69***********************:art2007luck
 $bitcoin$64$f1b51789c676678cbd6b1b***********************:3432545666
@@ -81,6 +82,4 @@ $bitcoin$64$3d783f238d5fd14e2e39fd***********************:Newpassword08
 $bitcoin$64$cb45f39981b1c743d7b9b9***********************:onika1987
 $bitcoin$64$13b9e5eb97dbd913d92318***********************:kevinpass	
 $bitcoin$64$5b95bd9526132fcf32c21d***********************:Fucker1234	
-$bitcoin$64$b8fb5f31b2823971fd8635***********************:Chelsea1905	
-
-  
+$bitcoin$64$b8fb5f31b2823971fd8635***********************:Chelsea1905
